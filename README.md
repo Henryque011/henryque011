@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 style="text-align: center;"> Olá, eu sou o Henryque </h1>
+
+Sobre Mim!
+
+- 🖥️ Desenvolvedor Full Stack
+- ✍️ Estudando PWA.
+- ☺️ Pronouns: ele/dele
+
+[![henryque011](https://github-readme-stats.vercel.app/api?username=henryque011&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![henryque011](https://github-readme-stats.vercel.app/api/top-langs/?username=henryque011&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
-**Henryque011/henryque011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+<h3 align="center">Tecnologias que já estudei💻</h3>
+
+
