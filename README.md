@@ -3,12 +3,14 @@
 Sobre Mim!
 
 - 🖥️ Desenvolvedor Full Stack
-- ✍️ Estudando PWA.
+- ✍️ Estudando Progressive Web Apps (PWA).
 - ☺️ Pronouns: ele/dele
 
-[![henryque011](https://github-readme-stats.vercel.app/api?username=henryque011&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=henryque011&theme=highcontrast&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryque011&layout=compact&theme=highcontrast" alt="Top Languages" width="37%" />
+</div>
 
-[![henryque011](https://github-readme-stats.vercel.app/api/top-langs/?username=henryque011&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
