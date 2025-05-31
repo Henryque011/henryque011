@@ -47,8 +47,9 @@
  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### 🌐 Meus contatos
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/henryque-nonato-silva-300116265)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([in/henryque-nonato-silva-300116265](https://www.linkedin.com/in/henryque-nonato-silva-300116265/))
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henryquenonatosilva@gmail.com)
 
-### 🚀 Meus Projetos
+
 
 
